@@ -109,7 +109,7 @@ class MainActivity : ComponentActivity() {
                                 fontSize = 36.sp,
                                 color = Color.Black
                             )
-                            Text(text = "Go to Favorites Tab", color = Color.DarkGray)
+                            Text(text = "Go to Favorites Tab", color = Color.DarkGray, fontSize = 18.sp)
                         }
 
                     }
